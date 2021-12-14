@@ -1,4 +1,4 @@
-This repository contains binary resources for PCAPdroid.
+This repository contains binary resources for PCAPdroid. The resources are located into the specific branches.
 Having this separate repository helps keep the PCAPdroid repo git cleaner and smaller in size.
 
 The resources include:
